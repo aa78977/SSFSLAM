@@ -10,7 +10,7 @@ Real-Time RGB-D Visual SLAM for Complex Dynamic Environments Based on Semantic a
 
 Tested on Ubuntu 18.04 and 20.04.
 
-**Pangolin **
+**Pangolin**
 
 We use [Pangolin](https://github.com/stevenlovegrove/Pangolin) for visualization and user interface. Dowload and install instructions can be found at: https://github.com/stevenlovegrove/Pangolin.
 
