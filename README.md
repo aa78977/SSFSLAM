@@ -16,7 +16,7 @@ We use [Pangolin](https://github.com/stevenlovegrove/Pangolin) for visualization
 
 **Eigen3**
 
-Required by g2o (see below). Download and install instructions can be found at: [http://eigen.tuxfamily.org](http://eigen.tuxfamily.org/). **Required at least 3.1.0**.
+Download and install instructions can be found at: [http://eigen.tuxfamily.org](http://eigen.tuxfamily.org/). **Required at least 3.1.0**.
 
 **Opencv**
 
