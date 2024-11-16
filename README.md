@@ -58,7 +58,6 @@ catkin_make --pkg octomap_server
 catkin_make --pkg ssf-slam
 ```
 
-Find how to install SSF-SLAM and its dependencies here: **[Installation instructions]()**.
 
 ## Run datasets examples
 
